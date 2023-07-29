@@ -1,4 +1,3 @@
-
 How to run MacOS on Windows using VMware Guide
 ==============================================
 
@@ -10,16 +9,16 @@ Single Link Download:
 -----------------------------------------------------------------------
 https://www.mediafire.com/file/cgvvab76xbbdroi/macOS+Catalina+10.15.6+Package.rar/file
 -----------------------------------------------------------------------
-1GB Parts:
+1GB Parts : 
 -----------------------------------------------------------------------
-Part 1: https://mega.nz/file/ragRyBqb#sUpacIuH6zhTDRvtg3Jma57k7cHVKVqzRTKbGVC87TA
-Part 2: https://mega.nz/file/LXwjCDCK#x-APIyYUUGwDmyjB3iaNKqD3c-CZAFeZh_WixrAtDdc
-Part 3: https://mega.nz/file/PCg3SDBY#42ZkKUeMVl6sKFlzfDa1JbygAWUBJOiiQOOGdFjrhRA
-Part 4: https://mega.nz/file/3GgXxJJQ#YnEDPyIsC61TfANNZLX0d-tAh7muI2DeMEQNKYKxzqY
-Part 5: https://mega.nz/file/XaxBnJjC#gT1DeJhdF5RlVDz5xUPR3hh0AayDmxlg82Ffvsl5Qro
-Part 6: https://mega.nz/file/jeoBiThQ#WuF1BSBJlwncsYIi86qEL_LHgSNEgEHEcCpFTNGVnvk
-Part 7: https://mega.nz/file/LS5xUTQT#JpRIDqUG0N0uicB5AG91FesPLf7Tv2iDQ3ChwnII2P4
-Part 8: https://mega.nz/file/2D5VGRLA#SM8suI-58n6txA4GjQDpX8R_T_dZtxvUHTwqHs31_fs
+Part 1 : https://mega.nz/file/ragRyBqb#sUpacIuH6zhTDRvtg3Jma57k7cHVKVqzRTKbGVC87TA
+Part 2 : https://mega.nz/file/LXwjCDCK#x-APIyYUUGwDmyjB3iaNKqD3c-CZAFeZh_WixrAtDdc
+Part 3 : https://mega.nz/file/PCg3SDBY#42ZkKUeMVl6sKFlzfDa1JbygAWUBJOiiQOOGdFjrhRA
+Part 4 : https://mega.nz/file/3GgXxJJQ#YnEDPyIsC61TfANNZLX0d-tAh7muI2DeMEQNKYKxzqY
+Part 5 : https://mega.nz/file/XaxBnJjC#gT1DeJhdF5RlVDz5xUPR3hh0AayDmxlg82Ffvsl5Qro
+Part 6 : https://mega.nz/file/jeoBiThQ#WuF1BSBJlwncsYIi86qEL_LHgSNEgEHEcCpFTNGVnvk
+Part 7 : https://mega.nz/file/LS5xUTQT#JpRIDqUG0N0uicB5AG91FesPLf7Tv2iDQ3ChwnII2P4
+Part 8 : https://mega.nz/file/2D5VGRLA#SM8suI-58n6txA4GjQDpX8R_T_dZtxvUHTwqHs31_fs
 
 3: Download VMware Unlocked:
 https://github.com/paolo-projects/unlocker
@@ -27,13 +26,13 @@ https://github.com/paolo-projects/unlocker
 4: Download Python for Windows:
 https://www.python.org/downloads/release/python-370/
 
-5: After downloading all files, Install VMware first.
+5: After download all files, Install VMware first.
 
 6: Install Python with default settings
 
-7: Unzip VMware Unlocker and open its folder. Go to the "win-install.cmd" file and run it as administrator.
+7: Unzip VMware Unlocker and open its folder. Goto "win-install.cmd" file and run it as administrator.
 
-8: Wait till it finishes processing
+8: Wait till it finish processing
 
 9: Follow the processes in the video.
 
